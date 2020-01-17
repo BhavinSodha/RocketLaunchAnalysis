@@ -18,9 +18,11 @@ The charts and final infographic were created using excel and pictochart.
 **Sources** 
 
 
-(nasa.gov)
-(http://planet4589.org/space/log/satcat.txt)
-(http://planet4589.org/space/logs/launchlog.txt)
+nasa.gov
+
+http://planet4589.org/space/log/satcat.txt
+
+http://planet4589.org/space/logs/launchlog.txt
 
 </center> 
  
