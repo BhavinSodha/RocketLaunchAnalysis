@@ -17,12 +17,13 @@ The charts and final infographic were created using excel and pictochart.
 
 **Sources** 
 
-
-nasa.gov
-
-http://planet4589.org/space/log/satcat.txt
+www.celestrak.org/satcat
 
 http://planet4589.org/space/logs/launchlog.txt
+
+www.nasa.gov
+
+www.esa.int
 
 </center> 
  
